@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/07/13 18:28:37.000.676,=C:\Users\jonyd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/13 20:18:26.000.401,=C:\Users\jonyd\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/07/13 20:18:54.000.650,=C:\Projeto petroshow\uDmDados.pas</Transaction>
+    <Transaction>2026/07/13 20:19:05.000.879,=C:\Projeto petroshow\uFrmCadastroProdutos.pas</Transaction>
+    <Transaction>2026/07/13 20:20:18.000.264,C:\Users\jonyd\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projeto petroshow\uPetroShow.dfm</Transaction>
+    <Transaction>2026/07/13 20:20:18.000.264,C:\Users\jonyd\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projeto petroshow\uPetroShow.pas</Transaction>
+    <Transaction>2026/07/13 20:20:33.000.453,C:\Users\jonyd\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projeto petroshow\Petroshow.dproj</Transaction>
+    <Transaction>2026/07/13 21:16:19.000.016,=C:\Projeto petroshow\Unit2.pas</Transaction>
+    <Transaction>2026/07/13 21:16:51.000.836,C:\Projeto petroshow\uFrmVendas.pas=C:\Projeto petroshow\Unit2.pas</Transaction>
+    <Transaction>2026/07/13 21:16:51.000.836,C:\Projeto petroshow\uFrmVendas.dfm=C:\Projeto petroshow\Unit2.dfm</Transaction>
+    <Transaction>2026/07/13 23:17:03.000.305,=C:\Projeto petroshow\Unit2.pas</Transaction>
+    <Transaction>2026/07/13 23:17:34.000.830,C:\Projeto petroshow\Unit2.pas=C:\Projeto petroshow\uFrmFiltroRelatorio.pas</Transaction>
+    <Transaction>2026/07/13 23:17:34.000.830,C:\Projeto petroshow\Unit2.dfm=C:\Projeto petroshow\uFrmFiltroRelatorio.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
